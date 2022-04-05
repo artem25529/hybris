@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/resources" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/web/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/src" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/scalasrc" />
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="concerttoursspring" name="concerttoursspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <file>file://$MODULE_DIR$/../bin/custom/concerttours/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/custom/concerttours/resources/concerttours-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot/WEB-INF/config/concerttours-web-app-config.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot/WEB-INF/config/concerttours-spring-security-config.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/concerttours/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/concerttours/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1905/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/concerttours">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot/WEB-INF/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/concerttours/backoffice/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/concerttours/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/concerttours/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+  </component>
+</module>

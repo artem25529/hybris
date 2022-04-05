@@ -1,0 +1,13 @@
+INSERT_UPDATE MusicType;code[unique=true]
+                       ;rock
+                       ;jazz
+                       ;classical
+                       ;pop
+                       ;gospel
+                       ;choral
+                       ;sixties
+                       ;seventies
+                       ;eighties
+                       ;nineties
+                       ;maleVocals
+                       ;femaleVocals
